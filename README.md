@@ -4,6 +4,9 @@ Using neural networks to build an automatic number plate recognition system.
 See [this blog post](http://matthewearl.github.io/2016/05/06/cnn-anpr/) for an
 explanation.
 
+## Trained model
+[Available here](https://drive.google.com/open?id=0B_8GYnMEqsi8YWxDcXpEcVFSdGs). Couple of hours to build it. Over 140K batches. To continue: ./train.py weights.npz
+
 **Note: This is an experimental project and is incomplete in a number of ways,
 if you're looking for a practical number plate recognition system this project
 is not for you.** If however you've read the above blog post and wish to tinker
