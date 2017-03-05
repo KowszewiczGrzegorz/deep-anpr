@@ -5,7 +5,7 @@ See [this blog post](http://matthewearl.github.io/2016/05/06/cnn-anpr/) for an
 explanation.
 
 ## Trained model
-[Available here](https://drive.google.com/open?id=0B_8GYnMEqsi8YWxDcXpEcVFSdGs). Couple of hours to build it. Over 140K batches. To continue: ./train.py weights.npz
+[Available here](https://drive.google.com/open?id=0B_8GYnMEqsi8YWxDcXpEcVFSdGs). Over 140K batches. To continue: ./train.py weights.npz . Couple of hours to build it on 970 GTX tensorflow + Cuda 8.0 + cudnn.
 
 **Note: This is an experimental project and is incomplete in a number of ways,
 if you're looking for a practical number plate recognition system this project
